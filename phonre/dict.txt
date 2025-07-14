@@ -1,4 +1,4 @@
-{
+{ 
     "\"Rich\"": "\"Rich\"",
     "\"Poor\"": "\"Poor\"",
     "you've": "you've",
